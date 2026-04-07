@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently work in yugayatra as a tecch intern<br>I am open to collaborate with new and intresting projects and ideas<br>I am also looking for a helping hand for my on going projects too..<br>I am a full stack developer who is open to contribute in any type of projects.<br>
+I worked in yugayatra as a tech intern<br>I am open to collaborate with new and intresting projects and ideas<br>I am also looking for a helping hand for my on going projects too..<br>I am a full stack developer who is open to contribute in any type of projects.<br>
 
 
 ## 🌐 Socials:
